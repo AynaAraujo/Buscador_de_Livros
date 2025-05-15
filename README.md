@@ -1,4 +1,4 @@
-:**Descrição:**
+**Descrição:**
 Projeto desenvolvido utilizando a técnica RAG (Retrieval-Augmented Generation) em um dataset de livros, com o objetivo de melhorar a busca personalizada de obras literárias.
 
 **Tecnologias e Bibliotecas Utilizadas:**
